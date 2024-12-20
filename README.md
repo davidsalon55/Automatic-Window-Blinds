@@ -5,3 +5,4 @@ solar energy to power itself and will be using Arduino as the microcontroller pr
 The prototype has two curtain blinds that will fold in horizontally and the other one will 
 be a vertical one for a precise blockage of the sun that will be coming through the 
 windows plane.
+![1](https://github.com/user-attachments/assets/3ee1b66e-ec8c-46cb-8629-351024dd2a54)
