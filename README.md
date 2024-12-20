@@ -14,6 +14,8 @@ altered using AutoCAD, and the researcher ensured that they were properly adjust
 match the actual prototype. This adjustment improves and was made based on the 
 measurements taken from the window of the café business where the prototype would 
 be implemented. 
+
+
 ![2](https://github.com/user-attachments/assets/0b5aa0d6-cb21-4a82-ab07-5e4459a35b4d)
 
 
